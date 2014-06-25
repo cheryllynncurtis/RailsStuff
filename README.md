@@ -1,0 +1,4 @@
+RailsStuff
+==========
+
+Rails training projects
